@@ -4,7 +4,9 @@
     "author": "Juho Vepsalainen <bebraw@gmail.com>",
     "version": "0.2.5",
 
-    "dependencies": {},
+    "dependencies": {
+        "generators.js": ">= 0.1.0"
+    },
 
     "main": "./lib/suite.js",
 
