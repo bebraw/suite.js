@@ -5,7 +5,8 @@
     "version": "0.2.6",
 
     "dependencies": {
-        "generators.js": ">= 0.1.0"
+        "generators.js": ">= 0.1.0",
+        "funkit": ">= 0.1.5"
     },
 
     "main": "./lib/suite.js",
