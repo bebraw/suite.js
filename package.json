@@ -2,7 +2,7 @@
     "name": "suite.js",
     "description": "A minimalistic testing tool",
     "author": "Juho Vepsalainen <bebraw@gmail.com>",
-    "version": "0.2.7",
+    "version": "0.2.8",
 
     "dependencies": {
         "generators.js": ">= 0.1.0",
