@@ -6,7 +6,7 @@
 
     "dependencies": {
         "generators.js": "== 0.1.9",
-        "funkit": "== 0.4.6"
+        "funkit": "== 0.4.8"
     },
 
     "main": "./lib/suite.js",
