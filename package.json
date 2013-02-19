@@ -5,7 +5,8 @@
     "version": "0.5.4",
 
     "dependencies": {
-        "funkit": "== 0.5.1"
+        "funkit": "== 0.6.7",
+        "is-js": "== 0.1.1"
     },
 
     "scripts": {
